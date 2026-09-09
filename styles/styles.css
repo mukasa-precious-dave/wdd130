@@ -1,3 +1,7 @@
+main {
+    max-width: 840px;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
