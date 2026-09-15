@@ -29,6 +29,10 @@ footer {
     margin: 0 auto;
 }
 
+header {
+    background-color: var(--secondary-color);
+}
+
 h1,
 h2 {
     font-family: var(--heading-font);
