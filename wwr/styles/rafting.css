@@ -34,10 +34,6 @@ header {
     border-bottom: 4px solid var(--accent2-color);
 }
 
-header {
-    background-color: var(--secondary-color);
-}
-
 h1,
 h2 {
     font-family: var(--heading-font);
